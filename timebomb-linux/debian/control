@@ -1,0 +1,13 @@
+Source: timebomb-linux
+Section: utils
+Priority: optional
+Maintainer: Your Name <youremail@example.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.5.0
+Homepage: https://github.com/yourusername/timebomb-linux
+
+Package: timebomb-linux
+Architecture: all
+Depends: jq, libnotify-bin
+Description: Timebomb - Auto-delete files/folders after a chosen duration via right-click menu
+ A utility for Ubuntu/Linux (GNOME/Nautilus) to schedule automatic deletion of files and folders via right-click menu. Includes timer scripts, cleaner, and systemd integration.

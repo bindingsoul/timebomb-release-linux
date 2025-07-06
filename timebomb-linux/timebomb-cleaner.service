@@ -1,0 +1,6 @@
+[Unit]
+Description=Timebomb Cleaner: Delete expired files
+
+[Service]
+Type=oneshot
+ExecStart=%h/.timebomb/cleaner.sh

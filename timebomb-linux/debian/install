@@ -1,0 +1,16 @@
+usr/local/bin/
+usr/share/doc/timebomb-linux/
+usr/share/timebomb-linux/
+timebomb-linux/cleaner.sh                usr/local/bin/
+timebomb-linux/install-timebomb.sh        usr/local/bin/
+timebomb-linux/uninstall-timebomb.sh      usr/local/bin/
+timebomb-linux/scripts/dlt-5-min.sh       usr/share/timebomb-linux/scripts/
+timebomb-linux/scripts/dlt-1-day.sh       usr/share/timebomb-linux/scripts/
+timebomb-linux/scripts/dlt-7-day.sh       usr/share/timebomb-linux/scripts/
+timebomb-linux/scripts/dlt-1-month.sh     usr/share/timebomb-linux/scripts/
+timebomb-linux/scripts/dlt-6-month.sh     usr/share/timebomb-linux/scripts/
+timebomb-linux/scripts/dlt-1-year.sh      usr/share/timebomb-linux/scripts/
+timebomb-linux/timebomb-cleaner.service   usr/share/timebomb-linux/
+timebomb-linux/timebomb-cleaner.timer     usr/share/timebomb-linux/
+timebomb-linux/README.md                  usr/share/doc/timebomb-linux/
+timebomb-linux/LICENSE                    usr/share/doc/timebomb-linux/
