@@ -1,0 +1,27 @@
+# Ignore build artifacts
+*.deb
+*.tar.gz
+*.build
+*.changes
+*.dsc
+*.buildinfo
+
+# Ignore debian packaging temp files
+debian/tmp/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore editor/project files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Python cache (if any)
+__pycache__/
+
+# Ignore .env files (if any)
+.env
